@@ -2,4 +2,4 @@ Ce projet vous invite à créer une arène virtuelle et à y faire s’affronter
 
 usage: ./asm player.s
        ./corewar [-dump] [-v -n] player1 player2
-	     ./corewar [-dump] [-v -n] player1 ... player4
+       ./corewar [-dump] [-v -n] player1 ... player4
